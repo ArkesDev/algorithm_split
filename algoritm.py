@@ -1,4 +1,3 @@
-
 sentence=input("Tell me a sentence: ")
 print(sentence.split())
 print(len(sentence.split()))
