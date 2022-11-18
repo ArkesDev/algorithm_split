@@ -10,4 +10,4 @@ for words in sentence:
         if words == " "and words !=ex_words :
                 number_words= number_words+1
         ex_words=words
-print("This sentence contains", number_words, "this words!")
+print("This sentence contains", number_words, "words!")
