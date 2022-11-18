@@ -1,2 +1,0 @@
-# algorithm_split
-python_algoritm_split
